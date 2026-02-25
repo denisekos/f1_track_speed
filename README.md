@@ -102,7 +102,3 @@ This visualization technique is identical to what F1 engineers use in real-time 
 ## Data Source
 
 All data is sourced from the official F1 timing API via the [FastF1](https://github.com/theOehrly/Fast-F1) library. Data availability depends on the session — historical data is available from the 2018 season onwards.
-
-## License
-
-MIT
