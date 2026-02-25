@@ -2,8 +2,6 @@
 
 A Python tool that visualizes an F1 driver's fastest lap telemetry data as a color-coded track map, where the color gradient represents speed throughout the lap.
 
-![Speed Map Example](https://via.placeholder.com/800x450?text=F1+Speed+Track+Visualization)
-
 ## Overview
 
 This script fetches real Formula 1 race data using the [FastF1](https://github.com/theOehrly/Fast-F1) library and plots a track map colored by speed using matplotlib. It's useful for analyzing how fast a driver is going through each section of a circuit during their fastest lap.
